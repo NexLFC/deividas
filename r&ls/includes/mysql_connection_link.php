@@ -1,7 +1,7 @@
 <?php
 define('DB_USER','root');
-define('DB_PASSWORD','');
-define('DB_HOST','localhost');
+define('DB_PASSWORD','Admin1234!@#');
+define('DB_HOST','http://192.168.33.10');
 define('DB_NAME','r&ls');
 
 $dbcl = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);

@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL','http://localhost/r&ls/');
+define('BASE_URL','http://192.168.33.10/r&ls/');
 define('MYSQL','./includes/mysql_connection_link.php');
 define('HEADER','./includes/header.php');
 define('FOOTER','./includes/footer.php');
